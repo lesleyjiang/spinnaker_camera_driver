@@ -1,4 +1,8 @@
 # spinnaker_camera_driver
+Before you run the drivers, make sure to add this line to your ``` ./bashrc```:
+```bash
+source devel/setup.bash
+```
 To run the drivers, when run the code:
 ```bash
 roslaunch acquisition.launch
