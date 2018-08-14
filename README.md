@@ -1,4 +1,7 @@
-# spinnaker_camera_driver
+
+## Installing spinnaker_camera_driver
+These are some tips for running the FLIR cameras that use the Spinnaker SDK. It has been tested with the Point Grey Blackfly S cameras. 
+
 Before you run the drivers, make sure to add this line to your ``` ./bashrc```:
 ```bash
 source devel/setup.bash
