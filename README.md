@@ -7,7 +7,7 @@ To run the drivers, when run the code:
 ```bash
 roslaunch acquisition.launch
 ```
-An error "No cameras found!" occurred due to the failure of USB recognition. To solve this, go to the spinnaker source code directory and run the code:
+An error "No cameras found!" occurred due to the failure of USB recognition. To solve this, go to the spinnaker source code directory and run the code in the terminal:
 ```bash
 sudo ./spin-conf
 ```
