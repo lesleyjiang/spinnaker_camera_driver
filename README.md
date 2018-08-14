@@ -11,4 +11,7 @@ An error "No cameras found!" may occur due to the failure of USB recognition. To
 ```bash
 sudo ./spin-conf
 ```
-Follow the instructions and reboot the device. Then run ``` roslaunch acquisition.launch ``` .
+Follow the instructions and reboot the device. Then run: 
+```bash
+roslaunch acquisition.launch 
+``` 
